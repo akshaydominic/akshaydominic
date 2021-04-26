@@ -2,7 +2,7 @@
 - 👀 I’m interested in working on java applications
 - 🌱 I’m currently learning spring boot projects
 - 💞️ I’m looking to collaborate on building java applications 
-- 📫 How to reach me adominic21@gmail.com
+- 📫 How to reach me email -adominic21@gmail.com , twitter -@adominic21
 
 <!---
 akshaydominic/akshaydominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
