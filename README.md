@@ -7,7 +7,7 @@
 [![alt text][1.1]][1]
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
 
 
 [1]: http://www.twitter.com/@adominic21
